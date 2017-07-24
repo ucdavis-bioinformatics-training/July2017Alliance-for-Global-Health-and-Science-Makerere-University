@@ -8,7 +8,6 @@ jnfass@ucdavis.edu
 Multi-line commands from slides:
 --------------------------------
 
-    srun -t 1440 -n 1 --mem 8000 --reservation workshop --pty /bin/bash
 
     wget --no-check-certificate ftp://igenome:G3nom3s4u@ussd-ftp.illumina.com/PhiX/Illumina/RTA/PhiX_Illumina_RTA.tar.gz
     curl -k https://bioshare.bioinformatics.ucdavis.edu/bioshare/download/pdhqicmfgw2bra8/variant.neighborhoods.fa > regions.fa
