@@ -10,13 +10,13 @@ Monday
 	[more](Workshop/Monday/commands_Command_Line.md)
 * Lunch
 * Afternoon Lecture - [So you want to do a: RNAseq study](Lecture_Series/RNAseq_Differential_Expression_Analysis.pdf)
-* Intro to command-line continued and preparing our dataset
+* Intro to command-line continue
 
 Tuesday
 =======
-* Setup for day, Questions
+* Setup for day, Preparing out dataset, Questions
 * Morning Lecture - [Experimental Design](Lecture_Series/ExperimentalDesign.pdf)
-* Preprocessing
+* Preprocessing samples
 * Lunch
-* Afternoon Lecture - [So you want to do a: RNAseq study](Lecture_Series/RNAseq_Differential_Expression_Analysis.pdf)
-* Mapping Data using Salmon
+* Afternoon Lecture - [Phylosophy of Preprocessing Data](Lecture_Series/Preprocessing.pdf)
+* Mapping reads to a reference
